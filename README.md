@@ -1,12 +1,12 @@
 `hey there!`
-# I'm Fran 🥤
+# I'm Fran 🧉
 - I love the [ReactJS] & [NextJS] ecosystem
 - Currently learning [TS] & [C] 
 
 **I use**
 - JS, TS, C
 - Astro, ReactJs, NextJs
-- MongoDB, MySQl
+- MongoDB, MySQL
 - Tailwind, Radix Ui
 - Figma, Notion, Trello, Spotify 
 
