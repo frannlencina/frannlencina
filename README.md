@@ -1,16 +1,16 @@
-### Hi there 👋
+`hey there!`
+# I'm Fran 🥤
+- I love the [ReactJS] & [NextJS] ecosystem
+- Currently learning [TS] & [C] 
 
-<!--
-**frannlencina/frannlencina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I use**
+- JS, TS, C
+- Astro, ReactJs, NextJs
+- MongoDB, MySQl
+- Tailwind, Radix Ui
+- Figma, Notion, Trello, Spotify 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[TS]: <https://www.typescriptlang.org/>
+[ReactJS]: <https://react.dev/>
+[NextJS]: <https://nextjs.org/>
+[C]: <https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)>
