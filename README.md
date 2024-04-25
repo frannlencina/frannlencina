@@ -10,6 +10,10 @@
 - Tailwind, Radix Ui
 - Figma, Notion, Trello, Spotify 
 
+[gist's 🌟]
+
+[gist's 🌟]: <https://gist.github.com/frannlencina>
+
 [TS]: <https://www.typescriptlang.org/>
 [ReactJS]: <https://react.dev/>
 [NextJS]: <https://nextjs.org/>
